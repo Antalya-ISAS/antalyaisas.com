@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Allow: *
+
+Sitemap: https://deneme1.antalyaisas.com/sitemap.xml
