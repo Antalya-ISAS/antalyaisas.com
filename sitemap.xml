@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://antalyaisas.com/about-us.html</loc>
+        <loc>https://antalyaisas.com/hakkimizda.html</loc>
     </url>
     <url>
-        <loc>https://antalyaisas.com/blog-post.html</loc>
-    </url>
-    <url>
-        <loc>https://antalyaisas.com/blog-post-list.html</loc>
-    </url>
-    <url>
-        <loc>https://antalyaisas.com/contact-us.html</loc>
-    </url>
-    <url>
-        <loc>https://antalyaisas.com/faq.html</loc>
-    </url>
-    <url>
-        <loc>https://antalyaisas.com/features.html</loc>
+        <loc>https://antalyaisas.com/iletisim.html</loc>
     </url>
     <url>
         <loc>https://antalyaisas.com/index.html</loc>
     </url>
     <url>
-        <loc>https://antalyaisas.com/testimonials.html</loc>
+        <loc>https://antalyaisas.com/ozellikler.html</loc>
+    </url>
+    <url>
+        <loc>https://antalyaisas.com/sss.html</loc>
     </url>
 </urlset>
